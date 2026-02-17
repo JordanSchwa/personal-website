@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "TA, Head of Students and Exam Support for CS61a: The Structure and Interpretation of Programs"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/cs61a-head-of-students
+venue: "UC Berkeley, EECS"
+date: 2022-08-01
 location: "City, Country"
 ---
 

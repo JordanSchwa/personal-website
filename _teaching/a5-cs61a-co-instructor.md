@@ -1,11 +1,11 @@
 ---
-title: "BJC Bootcamp for High Schoolers"
+title: "Co-Instructor for CS61a: Structure and Interpretation of Programs"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/bjc-bootcamp-for-hs 
+type: "Undergraduate course"
+permalink: /teaching/cs61a-co-instructor
 venue: "UC Berkeley, EECS"
-# date: 2025-06
-location: "Berkeley, CA, USA"
+date: 2023-06-01
+location: "Berkeley, CA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

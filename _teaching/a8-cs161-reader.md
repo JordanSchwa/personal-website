@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Reader for CS161: Computer Security"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Upper Division Undergraduate Course"
+permalink: /teaching/cs161-reader
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2025-01-01
 location: "City, Country"
 ---
 
