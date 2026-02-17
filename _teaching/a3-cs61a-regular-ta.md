@@ -1,5 +1,5 @@
 ---
-title: "TA for CS61a: The Structure and Interpretation of Programs"
+title: "TA for CS61A: The Structure and Interpretation of Programs"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/a3-cs61a-regular-ta
@@ -8,13 +8,8 @@ date: 2021-06-01
 location: "Berkeley, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I remained in this position for three semesters, so as a first, second, and third time regular TA for CS61A, I solo taught discussion sections both over zoom and in person in a classroom/lecture hall, held office hours, helped run online lab parties (where students could join a zoom to receive support on lab assignments), attended staff meetings, and sometimes held advising office hours. 
 
-Heading 1
-======
+Additionally, my first semester, I took CS 375, which is a pedagogy course on how to teach computer science.
 
-Heading 2
-======
-
-Heading 3
-======
+CS61A is generally considered a CS 1.5 course.

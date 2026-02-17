@@ -1,5 +1,5 @@
 ---
-title: "Co-Instructor for CS61a: Structure and Interpretation of Programs"
+title: "Co-Instructor for CS61A: Structure and Interpretation of Programs"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cs61a-co-instructor
@@ -8,13 +8,8 @@ date: 2023-06-01
 location: "Berkeley, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I co-instructed CS61A, approx. 500 students, as a rising senior, over the summer with two other students. I maintained my role from head of students and exam support. Additionally, I helped write exams, hire TAs and Tutors, and ran staff meetings, while coordinating with my co-instructors as well as running a staff of over 20 people. 
 
-Heading 1
-======
+I took the course CS 302 which was a spring pedagogy course for students who were instructing a course the following summer. 
 
-Heading 2
-======
-
-Heading 3
-======
+CS61A is generally considered a CS 1.5 course.

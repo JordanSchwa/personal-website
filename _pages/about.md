@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jordan Schwartz is a current first-year masters student the University of Pennsylvania. She graduated from UC Berkeley in the fall 2024 with a major in Cognitive Science and a minor in Computer Science. 
+Jordan Schwartz is a current first-year masters at student the University of Pennsylvania. She graduated from UC Berkeley in the fall of 2024 with a major in Cognitive Science and a minor in Computer Science. 
 
 Jordan's passion is education, in particular she focuses on introductory computer science education at the collegiate level. Jordan particularly enjoys working with students who are underrepresented in the field and may face extra obstacles to succeed in Computer Science due to either systemic or personal reasons. 
 

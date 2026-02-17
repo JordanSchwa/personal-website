@@ -2,19 +2,8 @@
 title: "TA and Head of Lecture Engagement for CIS 1100: Introduction to Computer Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/cis1100-ta-head-of-le
+permalink: /teaching/a10-cis1100-ta-head-of-le
 venue: "University of Pennsylvania, CIS"
 date: 2025-08-01
-location: "Philadelphia, PA, USA"
+location: "Philadelphia, PA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
