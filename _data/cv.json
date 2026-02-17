@@ -126,18 +126,18 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
+      "course": "TA and Head of Lecture Engagement for CIS 1100: Introduction to Computer Programming",
+      "institution": "University of Pennsylvania, CIS",
+      "date": "2025-08 - 2025-12",
       "role": "Undergraduate course",
-      "description": ""
+      "description": "Held office hours, co-taught a recitation, and organized lecture engagement."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
+      "course": "BJC Bootcamp for High Schoolers",
+      "institution": "UC Berkeley, EECS",
+      "date": "2025-06 - 2025-07",
       "role": "Workshop",
-      "description": ""
+      "description": "Worked with a team to teach the first 2 weeks of content from the CS10: BJC course to a class of high schoolers"
     }
   ],
   "portfolio": [
