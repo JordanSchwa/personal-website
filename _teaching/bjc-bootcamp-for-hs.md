@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/bjc-bootcamp-for-hs 
 venue: "UC Berkeley, EECS"
-date: 2025-06
+# date: 2025-06
 location: "Berkeley, CA, USA"
 ---
 
