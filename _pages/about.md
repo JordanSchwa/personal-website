@@ -11,6 +11,6 @@ Jordan Schwartz is a current first-year masters student the University of Pennsy
 
 Jordan's passion is education, in particular she focuses on introductory computer science education. Jordan likes to focus on students who are underrepresented in the field and may face extra obstacles to succeed in Computer Science due to either systemic or personal reasons. 
 
-Jordan is look for a role in higher education with a teaching position starting in summer or fall 2027. 
+Jordan is actively looking for a full time role in higher education with a teaching position starting this summer, summer 2026, as well as in summer or fall 2027. 
 
 

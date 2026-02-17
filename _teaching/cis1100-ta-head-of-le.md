@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cis1100-ta-head-of-le
 venue: "University of Pennsylvania, CIS"
-date: 2025-08 - 2025-12
+date: 2025-08
 location: "Philadelphia, PA, USA"
 ---
 
