@@ -76,6 +76,12 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% elsif post.evalsurl and post.evalsurl2 and post.evalsurl3 %}
+      <p><a href="{{ post.slidesurl }}">Download Evaluations</a> | <a href="{{ post.evalsurl2 }}">Download Evaluations</a> | <a href="{{ post.evalsurl3 }}">Download Evaluations</a></p>
+    {% elsif post.evalsurl and post.evalsurl2 %}
+      <p><a href="{{ post.slidesurl }}">Download Evaluations</a> | <a href="{{ post.evalsurl2 }}">Download Evaluations</a></p>
+    {% elsif post.evalsurl %}
+      <p><a href="{{ post.evalsurl }}">Download Evaluations</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}

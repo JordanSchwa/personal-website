@@ -6,6 +6,9 @@ permalink: /teaching/cs61a-head-of-students
 venue: "UC Berkeley, EECS"
 date: 2022-06-01
 location: "Berkeley, CA"
+evalsurl: '../evals/Schwartz  Jordan (COMPSCI 61A LEC 001 STR INTERP CMP PRGS (EVAL FOR GSI)) - Su 2022.pdf'
+evalsurl2: '../evals/Schwartz  Jordan (COMPSCI 61A DIS 999 The Structure and Interpretation of Computer Programs (EVAL FOR GSI)) - Fall 2022.pdf'
+evalsurl3: '../evals/Schwartz  Jordan (COMPSCI 61A DIS 999 The Structure and Interpretation of Computer Programs (EVAL FOR GSI)) - Spring 2023.pdf'
 ---
 
 As a Head TA for CS61A, I was in charge of coordinating an 800+ student course. Most of my role was in supporting students with accommodations and disabilities. Part of this role was hosting 1-1 meetings with students to ensure their accommodations are met and that if they didn't have accommodations through the university that we were still able to support them. I also hosted office hours, ran a solo discussion section, and sometimes helped run staff meeting. I remained in this role for three semesters.

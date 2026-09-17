@@ -6,6 +6,7 @@ permalink: /teaching/a0-cs10ai
 venue: "UC Berkeley, EECS"
 date: 2020-08-01
 location: "Berkeley, CA"
+# evalsurl: 'https://academicpages.github.io/files/slides1.pdf'
 ---
 
 As an academic intern in my first regular (well, it was 2020) online semester at UC Berkeley, I gained my hands on experience working with students at the college level. I assisted in online labs in office hours. I also partially gave discussion section by presenting on and engaging with students on a practice problem. 

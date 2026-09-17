@@ -9,37 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+[Download a PDF here.](../_pages/Jordan-Schwartz-CV.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* WIP, M.S.E. in Computer and Information Science, University of Pennsylvania, Expected 2027
+* B.A. in Cognitive Science, Minor in Computer Science, University of California, Berkeley, 2024
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Over five years of teaching, tutoring, and mentoring students at U.C. Berkeley and University of Pennsylvania while maintaining my undergraduate and graduate studies course load.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**University of Pennsylvania Computer and Information Science**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Instructor, CIS 1902: Python, in progress
+* Teaching Assistant, Computer and Information Science (CIS) 1100: Introduction to Computer Programming, 1 semester
+
+**Berkeley Electrical Engineering and Computer Science**
+
+* Co-Instructor, Computer Science (CS) 161: Computer Security, 1 semester
+* Head Undergraduate Student Instructor (uGSI), CS 161, 3 semesters
+* Co-Instructor, CS 61A: The Structure and Interpretation of Computer Programs, 1 semester
+* Head uGSI, CS 61A, 3 semesters
+* uGSI, CS 61A, 3 semesters
+
+**UC Berkeley, Computer Science Mentors (Student Organization)** 
+* Course Coordinator, CS 61A, 1 semester
+* Senior Mentor, CS 61A, 2 semesters
+* Junior Mentor, CS 88: Computational Structures in Data Science, 2 semesters
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Ran the Lindy on Sproul swing dancing club at UC Berkeley

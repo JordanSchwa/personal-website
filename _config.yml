@@ -88,8 +88,10 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  papers:
     title: 'Conference Papers'
+  posters:
+    title: 'Conference Posters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -224,10 +226,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  evaluations:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -273,7 +275,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _evaluations
   - scope:
       path: ""
       type: portfolio

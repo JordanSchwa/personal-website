@@ -6,6 +6,8 @@ permalink: /teaching/cs61a-co-instructor
 venue: "UC Berkeley, EECS"
 date: 2023-06-01
 location: "Berkeley, CA"
+evalsurl: '../evals/Schwartz  Jordan (COMPSCI 61A LEC 001 The Structure and Interpretation of Computer Programs (EVAL FOR GSI)) - Summer 2023.pdf'
+
 ---
 
 I co-instructed CS61A, approx. 500 students, as a rising senior, over the summer with two other students. I maintained my role from head of students and exam support. Additionally, I helped write exams, hire TAs and Tutors, and ran staff meetings, while coordinating with my co-instructors as well as running a staff of over 20 people. 
