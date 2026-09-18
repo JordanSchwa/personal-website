@@ -343,25 +343,24 @@ def parse_portfolio(portfolio_dir):
         return portfolio
     
     for portfolio_file in sorted(glob.glob(os.path.join(portfolio_dir, "*.md"))):
-        portfolio.append(portfolio_file)
-        # with open(portfolio_file, 'r', encoding='utf-8') as file:
-        #     content = file.read()
+        with open(portfolio_file, 'r', encoding='utf-8') as file:
+            content = file.read()
         
-        # # Extract front matter
-        # front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
-        # if front_matter_match:
-        #     front_matter = yaml.safe_load(front_matter_match.group(1))
+        # Extract front matter
+        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
+        if front_matter_match:
+            front_matter = yaml.safe_load(front_matter_match.group(1))
             
-        #     # Extract portfolio details
-        #     portfolio_entry = {
-        #         "name": front_matter.get('title', ''),
-        #         "category": front_matter.get('collection', 'portfolio'),
-        #         "date": front_matter.get('date', ''),
-        #         "url": front_matter.get('permalink', ''),
-        #         "description": front_matter.get('excerpt', '')
-        #     }
+            # Extract portfolio details
+            portfolio_entry = {
+                "name": front_matter.get('title', ''),
+                "category": front_matter.get('collection', 'portfolio'),
+                "date": front_matter.get('date', ''),
+                "url": front_matter.get('permalink', ''),
+                "description": front_matter.get('excerpt', '')
+            }
             
-        #     portfolio.append(portfolio_entry)
+            portfolio.append(portfolio_entry)
     
     return portfolio
 
