@@ -20,7 +20,7 @@ Experience
 ======
 Over five years of teaching, tutoring, and mentoring students at U.C. Berkeley, University of Pennsylvania, and U.C. San Diego while maintaining my undergraduate and graduate studies course load.
 
-**University of Pennsylvania Computer and Information Science**
+**UCSD - The Halıcıoğlu Data Science Institute (HDSI)**
 
 * Instructor, DSC40AR: Theoretical Foundations of Data Science I, 1 term
 
