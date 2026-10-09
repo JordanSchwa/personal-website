@@ -18,11 +18,15 @@ Education
 
 Experience
 ======
-Over five years of teaching, tutoring, and mentoring students at U.C. Berkeley and University of Pennsylvania while maintaining my undergraduate and graduate studies course load.
+Over five years of teaching, tutoring, and mentoring students at U.C. Berkeley, University of Pennsylvania, and U.C. San Diego while maintaining my undergraduate and graduate studies course load.
 
 **University of Pennsylvania Computer and Information Science**
 
-* Instructor, CIS 1902: Python, in progress
+* Instructor, DSC40AR: Theoretical Foundations of Data Science I, 1 term
+
+**University of Pennsylvania Computer and Information Science**
+
+* Instructor, CIS 1902: Python, 1 semester
 * Teaching Assistant, Computer and Information Science (CIS) 1100: Introduction to Computer Programming, 1 semester
 
 **Berkeley Electrical Engineering and Computer Science**
