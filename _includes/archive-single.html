@@ -77,11 +77,11 @@
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Poster</a></p>
     {% elsif post.evalsurl and post.evalsurl2 and post.evalsurl3 %}
-      <p><a href="{{ post.evalsurl }}">Download Evaluations</a> | <a href="{{ post.evalsurl2 }}">Download Evaluations</a> | <a href="{{ post.evalsurl3 }}">Download Evaluations</a></p>
+      <p><a href="{{ post.evalsurl }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl2 }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl3 }}" style="color: #33ff3a;">Download Evaluations</a></p>
     {% elsif post.evalsurl and post.evalsurl2 %}
-      <p><a href="{{ post.evalsurl }}">Download Evaluations</a> | <a href="{{ post.evalsurl2 }}">Download Evaluations</a></p>
+      <p><a href="{{ post.evalsurl }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl2 }}" style="color: #33ff3a;">Download Evaluations</a></p>
     {% elsif post.evalsurl %}
-      <p><a href="{{ post.evalsurl }}">Download Evaluations</a></p>
+      <p><a href="{{ post.evalsurl }}" style="color: #33ff3a;">Download Evaluations</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
