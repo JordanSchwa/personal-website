@@ -22,7 +22,7 @@ Over five years of teaching, tutoring, and mentoring students at U.C. Berkeley, 
 
 **UCSD - The Halıcıoğlu Data Science Institute (HDSI)**
 
-* Instructor, DSC40AR: Theoretical Foundations of Data Science I, 1 term
+* Lecturer, DSC 40AR: Theoretical Foundations of Data Science I, 1 term
 
 **University of Pennsylvania Computer and Information Science**
 
