@@ -6,7 +6,7 @@ permalink: /teaching/cs61a-co-instructor
 venue: "UC Berkeley, EECS"
 date: 2023-06-01
 location: "Berkeley, CA"
-evalsurl: '../evals/Schwartz  Jordan (COMPSCI 61A LEC 001 The Structure and Interpretation of Computer Programs (EVAL FOR GSI)) - Summer 2023.pdf'
+evalsurl: '/evals/Schwartz  Jordan (COMPSCI 61A LEC 001 The Structure and Interpretation of Computer Programs (EVAL FOR GSI)) - Summer 2023.pdf'
 
 ---
 
