@@ -77,6 +77,8 @@
       <p><a href="{{ post.slidesurl }}">Download Poster</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Poster</a></p>
+    {% elsif post.evalsurl and post.evalsurl2 and post.evalsurl3 and post.evalsurl4 and post.evalsurl5 %}
+      <p><a href="{{ post.evalsurl | relative_url }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl2 | relative_url }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl3 | relative_url }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl4 | relative_url }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl5 | relative_url }}" style="color: #33ff3a;">Download Evaluations</a></p>
     {% elsif post.evalsurl and post.evalsurl2 and post.evalsurl3 and post.evalsurl4 %}
       <p><a href="{{ post.evalsurl | relative_url }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl2 | relative_url }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl3 | relative_url }}" style="color: #33ff3a;">Download Evaluations</a> | <a href="{{ post.evalsurl4 | relative_url }}" style="color: #33ff3a;">Download Evaluations</a></p>
     {% elsif post.evalsurl and post.evalsurl2 and post.evalsurl3 %}

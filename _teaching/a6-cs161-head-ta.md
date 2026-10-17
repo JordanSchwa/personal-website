@@ -6,10 +6,11 @@ permalink: /teaching/a6-cs161-head-ta
 venue: "UC Berkeley, EECS"
 date: 2023-08-01
 location: "Berkeley, CA"
-evalsurl: '/evals/Schwartz  Jordan (COMPSCI 161 LEC 001 Computer Security (EVAL FOR GSI)) - Fall 2023.pdf'
-evalsurl2: '/evals/Schwartz  Jordan (COMPSCI 161 LEC 001 Computer Security (EVAL FOR GSI)) - Spring 2024.pdf'
-evalsurl3: '/evals/Schwartz  Jordan (COMPSCI 161 LEC 001 Computer Security (EVAL FOR GSI)) - Fall 2024.pdf'
-evalsurl4: '/evals/Schwartz  Jordan (COMPSCI 161 DIS 999 Computer Security (EVAL FOR GSI)) - Fall 2024.pdf'
+evalsurl: '/evals/SchwartzGSIFall2023.pdf'
+evalsurl2: '/evals/SchwartzSpring2024.pdf'
+evalsurl3: '/evals/SchwartzFall2024.pdf'
+evalsurl4: '/evals/SchwartzGSIFall2024.pdf'
+evalsurl5: 'evals/Schwartz2Fall2024.pdf'
 ---
 
 

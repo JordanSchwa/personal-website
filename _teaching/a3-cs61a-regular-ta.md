@@ -6,9 +6,9 @@ permalink: /teaching/a3-cs61a-regular-ta
 venue: "UC Berkeley, EECS"
 date: 2021-06-01
 location: "Berkeley, CA"
-evalsurl: '/evals/Schwartz  Jordan (COMPSCI 61A LEC 001 STR INTERP CMP PRGS (EVAL FOR GSI)) - Su 2021.pdf'
-evalsurl2: '/evals/Schwartz  Jordan (COMPSCI 61A LEC 001 STR INTERP CMP PRGS (EVAL FOR GSI)) - Fa 2021.pdf'
-evalsurl3: '/evals/Schwartz  Jordan (COMPSCI 61A LEC 001 STR INTERP CMP PRGS (EVAL FOR GSI)) - Sp 2022.pdf'
+evalsurl: '/evals/SchwartzSu2021.pdf'
+evalsurl2: '/evals/SchwartzFa2021.pdf'
+evalsurl3: '/evals/SchwartzSp2022.pdf'
 # evalsurl4:
 ---
 
